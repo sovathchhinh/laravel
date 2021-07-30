@@ -1,0 +1,25 @@
+{
+   "blogs": [
+        {
+           "id": 1,
+           "title": "Man must explore, and this is exploration at its greatest",
+           "subTitle": "Problems look mighty small from 150 miles up",
+           "author": "Start Bootstrap",
+           "publishDate": "September 24, 2021"
+        },
+        {
+            "id": 2,
+            "title": "Science has not yet mastered prophecy",
+            "subTitle": "We predict too much for the next year and yet far too little for the next ten.",
+            "author": "End Bootstrap",
+            "publishDate": "August 24, 2021"
+        },
+        {
+            "id": 3,
+            "title": "Post title 3",
+            "subTitle": "Sub title 4",
+            "author": "End Bootstrap",
+            "publishDate": "August 2, 2021"
+        }
+   ] 
+}
